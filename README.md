@@ -71,7 +71,7 @@ This work was supported by:
 
 ## Contact
 
-- Linghua Zhu: [linghua8@uw.edu]
+- Linghua Zhu: linghua8@uw.edu
 - Xiaosong Li: xsli@uw.edu
 - Yulong Dong: dongyl@umich.edu
 
